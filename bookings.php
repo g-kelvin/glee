@@ -166,6 +166,7 @@
         $hyservices = $_POST['hyservices'];
         $services = $_POST['services'];
         $message = $_POST['message']; 
+        echo "$hyservices";
 
         $to = "info@gleehygienesolutions.co.ke";
         $subject = 'Message from GLEE HYGIENE SOLUTIONS LTD'." , ";
