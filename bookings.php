@@ -99,8 +99,8 @@
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Company <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
                             <li><a href="about.html">About Us</a></li>
-                            <li><a href="faq.html">Faq</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
+                            <li><a href="quality.html">Quality Control</a></li>
+                            <li><a href="personnel.html">Personnel</a></li>
                           </ul>
                       </li>
               
@@ -109,8 +109,8 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="services.html"> Our Services</a></li>
-                            <li><a href="quality.html">Quality Control</a></li>
+                            <li><a href="services.html">Commercial</a></li>
+                            <li><a href="hygiene.html">Hygiene</a></li>
                           </ul>
                       </li>
               
@@ -157,7 +157,7 @@
 </div><!-- Banner area end --> 
 
 
- <?php
+  <?php
   if(isset($_POST['submit'])){
         $name = $_POST['name'];
         $email = $_POST['email'];
@@ -166,11 +166,11 @@
         $hyservices = $_POST['hyservices'];
         $services = $_POST['services'];
         $message = $_POST['message']; 
-        echo "$hyservices";
+
 
         $to = "info@gleehygienesolutions.co.ke";
         $subject = 'Message from GLEE HYGIENE SOLUTIONS LTD'." , ";
-        $msg ="Name: ".$name." , "."Email: ".$email." , "." Subject: ".$subject."wrote the following: ".$message;
+        $msg ="Name of the Sender: ".$name." , "."  ".$email." , "."  ".$tel."Inquired About: ".$company." , "."  ".$hyservices." , "."  ".$services." , "."  ".$message;
         $headers ="From: ".$email;
          if(mail($to,$subject,$msg,$headers)){
             
@@ -193,7 +193,6 @@ else {
         echo "try again";
     }
 ?>
-
 
 
 

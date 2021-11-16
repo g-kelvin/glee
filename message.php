@@ -165,8 +165,8 @@
         $message = $_POST['message']; 
 
         $to = "info@gleehygienesolutions.co.ke";
-        $subject = 'Message from GLEE HYGIENE SOLUTIONS LTD'." , ";
-        $msg ="Name: ".$name." , "."Email: ".$email." , "." Subject: ".$subject."wrote the following: ".$message;
+        // $subject = 'Message from GLEE HYGIENE SOLUTIONS LTD'." , ";
+        $msg ="Name: ".$name." , "."Email: ".$email." , "." Subject: ".$subject." wrote the following: ".$message;
         $headers ="From: ".$email;
          if(mail($to,$subject,$msg,$headers)){
             
