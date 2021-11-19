@@ -735,11 +735,11 @@ ul.navbar-nav > li.active > a {
 }
 
 /*-- Logo --*/
-/*.logo img {
+.logo img {
   width: auto;
   height: 35px;
 }
-*/
+
 .header-two .logo img {
   height: 30px;
 }
