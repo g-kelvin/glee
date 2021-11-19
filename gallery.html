@@ -109,8 +109,8 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="services.html">Commercial</a></li>
-                            <li><a href="hygiene.html">Hygiene</a></li>
+                              <li><a href="services.html"><small><b>Commercial Cleaning </b> </small></a></li>
+                            <li><a href="hygiene.html"><small><b>Hygiene Solutions </b> </small></a></li>
                           </ul>
                       </li>
               

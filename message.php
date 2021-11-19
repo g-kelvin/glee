@@ -99,8 +99,8 @@
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Company <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
                             <li><a href="about.html">About Us</a></li>
-                            <li><a href="faq.html">Faq</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
+                            <li><a href="quality.html">Quality Control</a></li>
+                            <li><a href="personnel.html">Personnel</a></li>
                           </ul>
                       </li>
               
@@ -109,8 +109,8 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="services.html"> Our Services</a></li>
-                            <li><a href="quality.html">Quality Control</a></li>
+                              <li><a href="services.html"><small><b>Commercial Cleaning </b> </small></a></li>
+                            <li><a href="hygiene.html"><small><b>Hygiene Solutions </b> </small></a></li>
                           </ul>
                       </li>
               
