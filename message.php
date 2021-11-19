@@ -194,16 +194,18 @@ else {
 
 
 
-
- <footer id="footer" class="footer bg-overlay">
+<footer id="footer" class="footer bg-overlay">
     <div class="footer-main">
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-lg-4 col-md-6 footer-widget footer-about">
-            <h3 class="widget-title">About Us</h3>
-            <img   src="images/footer-logo.png" width="300px" >
-            <p>Approaching the commercial cleaning business Gleefully & professionally is our key mission to
-            perfection in cleaning & hygiene solutions.</p>
+            <h3 class="widget-title">Contact Us</h3>
+            <img   src="images/footer-logo.png" width="200px" >
+            <p>
+              Address: Repen Complex 3rd Floor, suite 307,Mombasa road <br>
+              Email: info@gleehygienesolutions.co.ke <br>
+              Tel: +254 724 772 699 | 717 368 442 
+            </p>
             <div class="footer-social">
               <ul>
                 <li><a href="https://facebook.com/themefisher" aria-label="Facebook"><i
@@ -219,7 +221,7 @@ else {
 
           <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
             <h3 class="widget-title">Working Hours</h3>
-            <div class="working-hours">
+            <div class="working-hours" align="justify">
               We work 7 days a week, every day excluding major holidays. Contact us if you have an emergency, with our
               Hotline and Contact form.
               <br><br> Monday - Friday: <span class="text-right">7:30 AM - 18:00 PM </span>
@@ -228,7 +230,7 @@ else {
             </div>
           </div><!-- Col end -->
 
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
+         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
             <h3 class="widget-title">Quick Links</h3>
             <ul class="list-arrow">
               <li><a href="service-single.html">Home</a></li>
