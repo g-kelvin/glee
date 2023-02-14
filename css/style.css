@@ -121,7 +121,8 @@ a:hover {
 
 a.read-more {
   /*Company color change is here. Edit all from here and get your intended color*/
-  color: #64dd17;
+  color: #64dd17; 
+  /*footer green color*/
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -2441,7 +2442,7 @@ img.testimonial-thumb {
 ================================================== */
 /*- Footer common */
 .footer {
-  background-color: blue;
+  background-color: #00aeef;
   color: #999;
 }
 
@@ -2511,7 +2512,7 @@ img.testimonial-thumb {
 
 .footer-widget ul.list-arrow li a,
 .footer-widget ul.list-arrow li:before {
-  color: #747474;
+  color: black;
 }
 
 .footer-widget ul.list-arrow li:hover a,
