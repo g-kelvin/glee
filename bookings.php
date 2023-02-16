@@ -198,29 +198,22 @@ else {
 
 
 
-<footer id="footer" class="footer bg-overlay">
+<footer id="footer" style="background-color: #00aeef; color: black;">
     <div class="footer-main">
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-lg-4 col-md-6 footer-widget footer-about">
             <h3 class="widget-title">Contact Us</h3>
-            <img   src="images/footer-logo.png" width="200px" >
-            <p>
-              Address: Repen Complex 3rd Floor, suite 307,Mombasa road <br>
-              Email: info@gleehygienesolutions.co.ke <br>
-              Tel: +254 724 772 699 | 717 368 442 
+            
+            <p align="justify">
+              Address: Along Outering Road, Next to Total Petrol Station ,Just After Pipeline Stage, Before The Former Tajmall Roundabout - Nairobi Kenya<br>
+              Email: weevpro@gmail.com <br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sales@weevpro.co.ke <br>
+              Tel: +254 712 902 557 | +254 741 452 918 | <br>
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+254 755 462 032
             </p>
-            <div class="footer-social">
-              <ul>
-                <li><a href="https://facebook.com/themefisher" aria-label="Facebook"><i
-                      class="fab fa-facebook-f"></i></a></li>
-                <li><a href="https://twitter.com/themefisher" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                </li>
-                <li><a href="https://instagram.com/themefisher" aria-label="Instagram"><i
-                      class="fab fa-instagram"></i></a></li>
-                <li><a href="https://github.com/themefisher" aria-label="Github"><i class="fab fa-github"></i></a></li>
-              </ul>
-            </div><!-- Footer social end -->
+         
+         
           </div><!-- Col end -->
 
           <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
@@ -234,14 +227,14 @@ else {
             </div>
           </div><!-- Col end -->
 
-         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
+         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget" >
             <h3 class="widget-title">Quick Links</h3>
-             <ul class="list-arrow">
-              <li><a href="index.html">Home</a></li>
+            <ul class="list-arrow">
+              <li><a href="index.html"  >Home</a></li>
               <li><a href="about.html">About</a></li>
               <li><a href="services.html">Our Services</a></li>
               <li><a href="gallery.html">Gallery</a></li>
-              <li><a href="contact.html">Contact</a></li>
+              <li><a href="Contact.html">Contact</a></li>
             </ul>
           </div><!-- Col end -->
         </div><!-- Row end -->
@@ -260,17 +253,6 @@ else {
           </div>
 
 
-         <!--  <div class="col-md-12">
-            <div class="footer-menu text-center">
-              <ul class="list-unstyled mb-0">
-                <li><a href="about.html">About</a></li>
-                <li><a href="team.html">About Us</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="news-left-sidebar.html">Contact</a></li>
-                <li><a href="pricing.html">Pricing</a></li>
-              </ul>
-            </div>
-          </div> -->
         </div><!-- Row end -->
 
         <div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top position-fixed">
@@ -282,6 +264,7 @@ else {
       </div><!-- Container end -->
     </div><!-- Copyright end -->
   </footer><!-- Footer end -->
+
 
 
   <!-- Javascript Files

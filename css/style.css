@@ -738,11 +738,11 @@ ul.navbar-nav > li.active > a {
 /*-- Logo --*/
 .logo img {
   width: auto;
-  height: 35px;
+  height: 35%;
 }
 
 .header-two .logo img {
-  height: 30px;
+  height: 100px;
 }
 
 /* header right */
