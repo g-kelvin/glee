@@ -244,7 +244,7 @@ else {
             <div class="copyright-info text-center">
               <span>Copyright &copy; <script>
                   document.write(new Date().getFullYear())
-                </script>, Designed &amp; Developed by <a href="https://softwaretechn.co.ke">Software Technology Kenya</a></span>
+                </script>,  All Rights Reserved. <a href="https://weevpro.co.ke">Weevpro Enterprise - Water & Irrigation</a></span>
             </div>
           </div>
 
