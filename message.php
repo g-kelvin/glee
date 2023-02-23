@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
 ================================================== -->
   <meta charset="utf-8">
-<title>Messaging - Weevpro Water & Pumps Solutions</title>
+<title>Messaging - Weevpro Enterprise - Water & Irrigation</title>
 
   <!-- Mobile Specific Metas
 ================================================== -->
